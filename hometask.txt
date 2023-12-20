@@ -1,3 +1,5 @@
 Они различаются в файлах README, в первой строке
 в master: Create release branch with human (master) in boots (boots branch) and hat (hat branch) with nice buttons on his jacket (buttons branch)
 а в demo: Create release branch with human (master) in boots (boots branch) and hat (hat branch).
+--
+9 комитов init, heat added, README added, dots, fix readme, Add boots, Merge remote-tracking branch 'origin/buttons' into boots_buttons, Merge remote-tracking branch 'yal/hat', add hometask.txt.
